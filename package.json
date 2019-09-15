@@ -1,0 +1,32 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "soap": "0.26.0",
+    "express": "4.16.4",
+    "config": "3.0.1",
+    "body-parser": "1.18.3",
+    "xmlbuilder": "10.1.1",
+    "file-system": "2.2.2",
+    "axios": "0.18.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/levindoneto/soap-rest-interface"
+  },
+  "keywords": [
+    "soap",
+    "rest",
+    "interface"
+  ],
+  "author": "Levindo Gabriel Taschetto Neto",
+  "bugs": {
+    "url": "https://github.com/levindoneto/soap-rest-interface/issues"
+  },
+  "homepage": "https://github.com/levindoneto/soap-rest-interface",
+  "devDependencies": {
+    "eslint": "5.12.1"
+  }
+}
